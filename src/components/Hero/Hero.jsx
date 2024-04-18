@@ -7,6 +7,7 @@ function Hero() {
       <div className="hero-content">
         <h2>Building Digital Experiences That Inspire</h2>
         <p>
+          <h3>Abhishek Kumar</h3>
           Passionate Frontend Developer | Transforming Ideas into Seamless and
           Visually Stunning Web Solutions
         </p>
